@@ -18,6 +18,20 @@ AI·SW 교육에서 함께 배우고, 프로젝트로 연결하고, 성장을 �
 
 대전대학교의 ACE 교육모델을 바탕으로 기초·전공·융합교육을 연결하고, 한의학과 헬스케어 등 대학의 강점 분야에 AI·SW를 접목하여 지역과 산업의 변화에 기여하고자 합니다.
 
+
+## 학생 활동과 프로젝트
+
+| 바로가기 | 함께 기록할 내용 | 현재 단계 |
+| :--- | :--- | :--- |
+| [AI·OSS 동아리 관리](https://github.com/DJU-SWCenteredUniversity/ai-oss-clubs) | 동아리 소개 · 연간 활동 · 공개 프로젝트 · 성과 | 기본 구조 마련 · 자료 등록 준비 |
+| [SW융합대학 학생 GitHub 활동](https://github.com/DJU-SWCenteredUniversity/student-github-dashboard) | 기간·저장소·활동 유형별 조회와 원문 증빙 | 대시보드 개발 준비 |
+| [캡스톤디자인 결과물](https://github.com/DJU-SWCenteredUniversity/capstone-archive) | 연도별 프로젝트 · 코드 · 보고서 · 발표 · 시연 | 기본 구조 마련 · 자료 등록 준비 |
+| [창업프로젝트 결과물](https://github.com/DJU-SWCenteredUniversity/startup-projects) | 연도별 아이디어 · 시제품 · 검증 · 발표 자료 | 기본 구조 마련 · 자료 등록 준비 |
+
+**프로젝트를 시작하나요?** [학생 프로젝트 공통 템플릿](https://github.com/DJU-SWCenteredUniversity/sw-project-template)에서 **Use this template**으로 팀 저장소를 만들거나 **Code → Download ZIP**으로 폴더와 양식을 받을 수 있습니다.
+
+세부 기능과 자료는 학생 개발팀과 함께 순차적으로 채워갑니다. [학생팀 개발·운영 인수 안내](https://github.com/DJU-SWCenteredUniversity/DJU-SWCenteredUniversity/blob/main/OPERATIONS.md)
+
 ## 교육과 협력
 
 | 분야 | 주요 내용 | 자세히 보기 |
